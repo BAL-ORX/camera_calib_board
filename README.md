@@ -22,8 +22,8 @@ It is recommended to install this package through the external calibration meta-
 
 2. Clone the repo
     ```bash
-    git clone https://github.com/BAL-ROCS-BUT-COOL/calib-board.git
-    cd calib-board
+    git clone https://github.com/BAL-ORX/camera_calib_board.git
+    cd camera_calib_board
     ```
 3. Install the package and its requirements using `pip`:
     ```bash

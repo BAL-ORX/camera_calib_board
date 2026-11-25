@@ -16,7 +16,7 @@ dependencies = [
     "matplotlib",
     "tqdm", 
     "calib_commons == 0.2.0" 
-    # "calib_commons @ git+https://github.com/tflueckiger/calib-commons.git"
+    # "calib_commons @ git+https://github.com/BAL-ORX/camera_calib_common.git"
 ]
 requires-python = ">=3.8"
 classifiers = [
